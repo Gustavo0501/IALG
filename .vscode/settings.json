@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "iomanip": "cpp",
+        "ostream": "cpp",
+        "iostream": "cpp",
+        "string": "cpp",
+        "cmath": "cpp",
+        "new": "cpp",
+        "istream": "cpp",
+        "*.tcc": "cpp",
+        "sstream": "cpp",
+        "iosfwd": "cpp"
+    },
+    "cmake.configureOnOpen": false
+}
